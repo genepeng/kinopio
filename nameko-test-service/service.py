@@ -14,7 +14,7 @@ class WorkerCtx(DependencyProvider):
 
 
 class Service:
-    name = 'tests'
+    name = 'test_service'
 
     worker_ctx = WorkerCtx()
     event_dispatcher = EventDispatcher()

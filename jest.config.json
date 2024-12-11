@@ -2,7 +2,8 @@
   "testPathIgnorePatterns": [
     "/node_modules/",
     "<rootDir>/test/",
-    "<rootDir>/dist/"
+    "<rootDir>/dist/",
+    ".history/"
   ],
   "transform": {
     "^.+\\.(t|j)sx?$": "ts-jest"

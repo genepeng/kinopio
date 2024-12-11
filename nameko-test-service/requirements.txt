@@ -1,3 +1,4 @@
-nameko==2.12.0
-udatetime==0.0.16
+nameko==3.0.0rc11
+udatetime==0.0.17
 python-dateutil==2.8.2
+kombu==5.3.7
